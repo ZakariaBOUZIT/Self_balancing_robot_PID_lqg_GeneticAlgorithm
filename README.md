@@ -2,7 +2,7 @@
 
 Self balancing, using :
 
--PID , tunned by genetic algorithm.
+-PID, tunned by genetic algorithm.
 
 -LQR.
 
