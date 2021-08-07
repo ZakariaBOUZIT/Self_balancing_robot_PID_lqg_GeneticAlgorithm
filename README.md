@@ -1,10 +1,10 @@
 # Self_balancing_robot
 
-Self balancing, using :
+Self balancing control, using :
 
 -PID, tunned by genetic algorithm.
 
--LQR.
+-LQR and LQG.
 
 ![](https://github.com/zaackq/Self_balancing_robot_PID_lqr_GeneticAlgorithm/blob/main/sim%202.gif)
 
