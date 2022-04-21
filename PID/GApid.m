@@ -1,4 +1,4 @@
-%credit to Steve Brunton 
+
 close all; clear all; clc
 M = 1;    % mass of the chassis  
 m = 0.2;  % mass of the wheels and shaft
